@@ -1,5 +1,5 @@
 joblib
 pandas
-
+streamlit
 Scikit-learn
 matplotlib
